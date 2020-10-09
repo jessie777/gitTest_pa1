@@ -3,4 +3,6 @@ Git is a free software.
 git is GL
 git is good.
 git
-dddgit -- feature2
+dddgit--feature1
+
+>>>>>>> feature1
